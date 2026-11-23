@@ -5,7 +5,7 @@
 
 각 미션 폴더에는 결과물뿐 아니라 무엇을 시도했고, 어떻게 확인했고, 왜 그렇게 선택했는지를 함께 기록합니다.
 
-🔗 **배포 페이지**: https://oksuuu.github.io/codyssey-native-onboarding/M2_deploy-worker/
+🔗 **배포 페이지**: https://dt-oksuu.github.io/codyssey-native-onboarding/M2_deploy-worker/
 
 ## Mission Map
 
