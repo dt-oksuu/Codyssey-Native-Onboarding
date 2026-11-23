@@ -1,5 +1,5 @@
 
-const ALLOWED = ["https://oksuuu.github.io"];
+const ALLOWED = ["https://dt-oksuu.github.io"];
 
 export default {
   async fetch(req, env) {
